@@ -7,7 +7,7 @@ The following repository contains architecture of SpecRNet model from the paper 
 ### Dependencies
 
 Install required dependencies using:
-```
+```bas
 pip install -r requirements.txt
 ```
 
@@ -17,3 +17,8 @@ pip install -r requirements.txt
 We provide the architecture along with:
 * time benchmark on batches of random inputs,
 * calculation of parameters' number.
+
+To run it please use:
+```bash
+python model.py
+```

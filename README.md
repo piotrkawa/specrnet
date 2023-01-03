@@ -2,6 +2,8 @@
 
 The following repository contains architecture of SpecRNet model from the paper called "SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection".
 
+Paper link: https://arxiv.org/abs/2210.06105
+
 ## Before you start
 
 ### Dependencies

@@ -22,3 +22,19 @@ To run it please use:
 ```bash
 python model.py
 ```
+
+
+## Citation
+
+If you use this code in your research please use the following citation:
+
+```
+@misc{kawa2022specrnet,
+    title={SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection},
+    author={Piotr Kawa and Marcin Plata and Piotr Syga},
+    year={2022},
+    eprint={2210.06105},
+    archivePrefix={arXiv},
+    primaryClass={cs.SD}
+}
+```

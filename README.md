@@ -31,12 +31,13 @@ python model.py
 If you use this code in your research please use the following citation:
 
 ```
-@misc{kawa2022specrnet,
-    title={SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection},
-    author={Piotr Kawa and Marcin Plata and Piotr Syga},
-    year={2022},
-    eprint={2210.06105},
-    archivePrefix={arXiv},
-    primaryClass={cs.SD}
-}
+@INPROCEEDINGS{10063734,
+  author={Kawa, Piotr and Plata, Marcin and Syga, Piotr},
+  booktitle={2022 IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)}, 
+  title={SpecRNet: Towards Faster and More Accessible Audio DeepFake Detection}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={792-799},
+  doi={10.1109/TrustCom56396.2022.00111}}
 ```
